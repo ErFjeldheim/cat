@@ -12,9 +12,9 @@ This Java application lets users create and list cats for free!
 - Maven 3.12 or higher
 
 ### Installation
-- 1. Clone the repository
-- 2. Navigate to the project directory
-- 3. Build the project using Maven:
+1. Clone the repository
+2. Navigate to the project directory
+3. Build the project using Maven:
 
 ```
 mvn clean install
