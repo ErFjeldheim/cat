@@ -1,5 +1,5 @@
 # Cat 
-This Java application lets users create and list cats for free!
+This Java application lets users create and list cats for free! 😻
 
 ## Features
 - **Cat creation:** Create cats
